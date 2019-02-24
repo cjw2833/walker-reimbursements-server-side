@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	<entry key="LOGIN">walker-reimbursements-login</entry>
+	<entry key="EMP-REIMBS">walker-reimbursements-emp</entry>
+	<entry key="FM-REIMBS">walker-reimbursements-all</entry>
+	<entry key="CREATE-REIMBS">walker-reimbursements-create</entry>
+	<entry key="UPDATE-REIMBS">walker-reimbursements-update</entry>
+</properties>
